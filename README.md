@@ -1,2 +1,2 @@
 # DesignModel
-涉及模式
+设计模式
